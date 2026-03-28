@@ -31,7 +31,7 @@ Retail_Analytics/
 ├── outputs/ # Results & visualizations
 └── README.md
 
-🔮 Future Work
+🔮 I am working on Future Work 
 Build demand forecasting models (ARIMA, SARIMA, LSTM)
 Create interactive dashboards (Power BI / Streamlit)
 Implement real-time data pipeline
